@@ -29,7 +29,7 @@ The Weather App allows users to explore cities worldwide, view weather details, 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone repo link
    cd weather-app
    npm install
    npm run dev
